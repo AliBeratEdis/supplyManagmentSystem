@@ -1,3 +1,8 @@
-#include "category.h"
+#include "Category.h"
 
-Category::Category() {}
+Category::Category(string n) {
+    name = n;
+}
+
+string Category::getName() const { return name; }
+void Category::setName(string n) { name = n; }

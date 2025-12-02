@@ -1,10 +1,18 @@
 #ifndef CATEGORY_H
 #define CATEGORY_H
 
-class Category
-{
+#include <string>
+
+using namespace std;
+
+class Category {
+private:
+    string name;
+
 public:
-    Category();
+    Category(string n = "General");
+    string getName() const;
+    void setName(string n);
 };
 
-#endif // CATEGORY_H
+#endif
