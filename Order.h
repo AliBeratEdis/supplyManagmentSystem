@@ -13,15 +13,19 @@ public:
     string productName;
     int quantity;
     double unitPrice;
+    double unitWeight; // YENI
 
-    OrderItem(int pId, string pName, int qty, double price);
+    OrderItem(int pId, string pName, int qty, double price, double weight);
     double getTotal();
+    double getTotalWeight();
 };
 
 class Order {
 private:
     int id;
     int supplierId;
+    int courierId;
+    string courierName;
     vector<OrderItem> items;
     string status;
     double totalAmount;
@@ -34,8 +38,12 @@ public:
 
     void addItem(OrderItem item);
     void setStatus(string s);
+    void assignCourier(int cId, string cName);
+
     int getId();
     string getStatus();
+    double getOrderTotalWeight(); // YENI
+    double getOrderTotalAmount();
 
     friend ostream& operator<<(ostream& os, const Order& order);
 

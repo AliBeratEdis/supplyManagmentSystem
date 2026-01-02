@@ -1,17 +1,17 @@
 HEADERS += \
-    category.h \
-    courier.h \
-    order.h \
-    person.h \
-    product.h \
-    supplier.h
+    Category.h \
+    Courier.h \
+    Order.h \
+    Person.h \
+    Product.h \
+    Supplier.h
 
 SOURCES += \
-    category.cpp \
-    courier.cpp \
-    main.cpp \
-    order.cpp \
-    person.cpp \
-    product.cpp \
-    supplier.cpp
+    Category.cpp \
+    Courier.cpp \
+    Order.cpp \
+    Person.cpp \
+    Product.cpp \
+    Supplier.cpp \
+    main.cpp
 

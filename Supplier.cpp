@@ -16,7 +16,9 @@ Supplier::Supplier(string n, string catName, string cName, string ph, string mai
     address = addr;
 }
 
-void Supplier::updateDetails(string catName, string cName, string phone, string email, string addr) {
+// GUNCELLEME: Isim dahil her seyi degistir
+void Supplier::updateDetails(string name, string catName, string cName, string phone, string email, string addr) {
+    companyName = name;
     category.setName(catName);
     contactPerson.setName(cName);
     contactPerson.setContact(phone, email);

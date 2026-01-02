@@ -13,14 +13,18 @@ private:
     string name;
     Category category;
     double price;
+    double weight; // YENI: Agirlik
     static int nextId;
 
 public:
-    Product(string name, string categoryName, double price);
+    Product(string name, string categoryName, double price, double weight);
+
+    void updateDetails(string name, string catName, double price, double weight);
 
     int getId();
     string getName();
     double getPrice();
+    double getWeight(); // Getter
 
     friend ostream& operator<<(ostream& os, const Product& p);
 

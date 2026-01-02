@@ -17,7 +17,8 @@ private:
 public:
     Supplier(string name, string catName, string cName, string phone, string email, string addr);
 
-    void updateDetails(string catName, string cName, string phone, string email, string addr);
+    // GUNCELLEME: Artik isimi de guncelliyoruz
+    void updateDetails(string name, string catName, string cName, string phone, string email, string addr);
 
     int getId();
     string getName();

@@ -1,0 +1,80 @@
+SUPPLIER|1|TechMaster|Electronics|Ali Yilmaz|5551001001|ali@techmaster.com|Teknoloji Vadisi No:1 Istanbul
+SUPPLIER|2|HomeDeco|Furniture|Ayse Demir|5551002002|ayse@homedeco.com|Mobilyacilar Sitesi No:5 Ankara
+SUPPLIER|3|FreshFarm|Food|Mehmet Kaya|5551003003|mehmet@freshfarm.com|Yesil Hal No:12 Antalya
+SUPPLIER|4|StyleWear|Clothing|Zeynep Celik|5551004004|zeynep@stylewear.com|Moda Caddesi No:3 Izmir
+SUPPLIER|5|BookWorld|Stationery|Ahmet Ozturk|5551005005|ahmet@bookworld.com|Kitapcilar Carsisi No:8 Bursa
+SUPPLIER|6|ElectroWorld|Electronics|Canan Arslan|5551006006|canan@electro.com|Bilisim Sokak No:4 Kocaeli
+SUPPLIER|7|ComfortLiving|Furniture|Burak Yildiz|5551007007|burak@comfort.com|Sanayi Bolgesi No:9 Adana
+SUPPLIER|8|OrganicLife|Food|Selin Koc|5551008008|selin@organic.com|Doga Yolu No:2 Mugla
+SUPPLIER|9|UrbanFashion|Clothing|Emre Sahin|5551009009|emre@urban.com|Bagdat Caddesi No:15 Istanbul
+SUPPLIER|10|OfficeSupplies|Stationery|Gamze Kilic|5551010010|gamze@office.com|Is Merkezi Kat:3 Gaziantep
+PRODUCT|1|Laptop Pro|Electronics|15000.000000|2.500000
+PRODUCT|2|Wireless Mouse|Electronics|250.000000|0.200000
+PRODUCT|3|Mechanical Keyboard|Electronics|800.000000|1.100000
+PRODUCT|4|Gaming Monitor 24|Electronics|3500.000000|5.500000
+PRODUCT|5|USB Cable|Electronics|50.000000|0.100000
+PRODUCT|6|Office Chair|Furniture|2500.000000|15.000000
+PRODUCT|7|Wooden Desk|Furniture|4000.000000|25.000000
+PRODUCT|8|Bookshelf|Furniture|1200.000000|18.000000
+PRODUCT|9|Sofa Set|Furniture|8500.000000|60.000000
+PRODUCT|10|Coffee Table|Furniture|750.000000|8.000000
+PRODUCT|11|Apples (1kg)|Food|30.000000|1.000000
+PRODUCT|12|Organic Milk|Food|25.000000|1.100000
+PRODUCT|13|Whole Bread|Food|15.000000|0.400000
+PRODUCT|14|Cheddar Cheese|Food|150.000000|0.500000
+PRODUCT|15|Olive Oil (5L)|Food|450.000000|5.000000
+PRODUCT|16|Cotton T-Shirt|Clothing|200.000000|0.300000
+PRODUCT|17|Denim Jeans|Clothing|600.000000|0.800000
+PRODUCT|18|Sneakers|Clothing|1200.000000|1.200000
+PRODUCT|19|Winter Jacket|Clothing|1500.000000|1.500000
+PRODUCT|20|Wool Scarf|Clothing|150.000000|0.200000
+PRODUCT|21|A4 Paper (500)|Stationery|120.000000|2.500000
+PRODUCT|22|Ballpoint Pen|Stationery|10.000000|0.050000
+PRODUCT|23|Notebook|Stationery|80.000000|0.400000
+PRODUCT|24|Stapler|Stationery|60.000000|0.300000
+PRODUCT|25|File Folder|Stationery|20.000000|0.100000
+PRODUCT|26|Smart Watch|Electronics|2000.000000|0.300000
+PRODUCT|27|Tablet 10inch|Electronics|5000.000000|0.900000
+PRODUCT|28|Bluetooth Speaker|Electronics|900.000000|1.500000
+PRODUCT|29|External SSD 1TB|Electronics|1800.000000|0.200000
+PRODUCT|30|Power Bank 20k|Electronics|700.000000|0.500000
+PRODUCT|31|Dining Table|Furniture|5500.000000|40.000000
+PRODUCT|32|Wardrobe|Furniture|6000.000000|75.000000
+PRODUCT|33|Nightstand|Furniture|600.000000|6.000000
+PRODUCT|34|TV Unit|Furniture|2200.000000|20.000000
+PRODUCT|35|Shoe Cabinet|Furniture|900.000000|12.000000
+PRODUCT|36|Tomatoes (1kg)|Food|25.000000|1.000000
+PRODUCT|37|Pasta (500g)|Food|12.000000|0.500000
+PRODUCT|38|Rice (2kg)|Food|80.000000|2.000000
+PRODUCT|39|Chicken Breast|Food|120.000000|1.000000
+PRODUCT|40|Yogurt (1kg)|Food|40.000000|1.100000
+PRODUCT|41|Running Shorts|Clothing|250.000000|0.200000
+PRODUCT|42|Hoodie|Clothing|700.000000|0.900000
+PRODUCT|43|Formal Shirt|Clothing|500.000000|0.400000
+PRODUCT|44|Leather Belt|Clothing|300.000000|0.300000
+PRODUCT|45|Socks (3pack)|Clothing|100.000000|0.150000
+PRODUCT|46|Desk Organizer|Stationery|150.000000|0.600000
+PRODUCT|47|Scissors|Stationery|40.000000|0.200000
+PRODUCT|48|Whiteboard Marker|Stationery|15.000000|0.050000
+PRODUCT|49|Calculator|Stationery|300.000000|0.300000
+PRODUCT|50|Sticky Notes|Stationery|25.000000|0.100000
+COURIER|1|Hizli Kurye Ahmet|5559001001|ahmet@kurye.com|4.800000|30.000000
+COURIER|2|Motorize Mehmet|5559002002|mehmet@kurye.com|4.500000|25.000000
+COURIER|3|Express Ayse|5559003003|ayse@kurye.com|4.900000|20.000000
+COURIER|4|Kargo Can|5559004004|can@kurye.com|4.200000|50.000000
+COURIER|5|Heavy Lifter Burak|5559005005|burak@kurye.com|5.000000|120.000000
+COURIER|6|Eco Kurye Elif|5559006006|elif@kurye.com|4.700000|15.000000
+COURIER|7|Night Rider Cem|5559007007|cem@kurye.com|4.600000|35.000000
+COURIER|8|Speedy Gonzales|5559008008|speedy@kurye.com|4.300000|10.000000
+COURIER|9|Safe Hands Deniz|5559009009|deniz@kurye.com|4.900000|60.000000
+COURIER|10|Big Van Osman|5559010010|osman@kurye.com|4.400000|200.000000
+COURIER|11|City Sprinter|5559011011|city@kurye.com|4.100000|18.000000
+COURIER|12|Drone Delivery|5559012012|drone@kurye.com|4.000000|5.000000
+COURIER|13|Bike Courier Ali|5559013013|ali.bike@kurye.com|4.800000|12.000000
+COURIER|14|Logistic Pro|5559014014|logistic@kurye.com|4.600000|80.000000
+COURIER|15|Reliable Trans|5559015015|reliable@kurye.com|4.500000|90.000000
+ORDER|1|1|Shipped|4|Kargo Can|3|1|Laptop Pro|1|15000.000000|2.500000|2|Wireless Mouse|2|250.000000|0.200000|5|USB Cable|3|50.000000|0.100000
+ORDER|2|2|Shipped|5|Heavy Lifter Burak|2|6|Office Chair|2|2500.000000|15.000000|7|Wooden Desk|1|4000.000000|25.000000
+ORDER|3|3|Shipped|5|Heavy Lifter Burak|4|11|Apples (1kg)|5|30.000000|1.000000|15|Olive Oil (5L)|2|450.000000|5.000000|13|Whole Bread|3|15.000000|0.400000|38|Rice (2kg)|2|80.000000|2.000000
+ORDER|4|6|Shipped|3|Express Ayse|1|27|Tablet 10inch|5|5000.000000|0.900000
+ORDER|5|9|Shipped|1|Hizli Kurye Ahmet|3|42|Hoodie|2|700.000000|0.900000|17|Denim Jeans|1|600.000000|0.800000|18|Sneakers|1|1200.000000|1.200000
